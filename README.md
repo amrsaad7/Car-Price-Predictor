@@ -9,7 +9,7 @@
 
 ### Overview
 
-The data set provided for this assignment contains information on many different car types and their prices. I ran some exploratory data analysis on 
+The data set provided for this project contains information on many different car types and their prices. I ran some exploratory data analysis on 
 the dataset to better understand it and it's features. Then proccessed and preparedthe data to apply some regression models in order to
 generate predictions of the sale price of each car.
 
